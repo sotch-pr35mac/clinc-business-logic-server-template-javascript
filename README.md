@@ -12,9 +12,6 @@ npm install
 npm start
 ```
 
-# Start the server on Heroku
-TODO: Write this
-
 # Business Logic Interface
 A user can insert arbitrary Business Logic into a custom competency by using a webhook. In this section, we will discuss setting up a webhook, including how to use it to insert and edit the variables that are used for response generation.
 
